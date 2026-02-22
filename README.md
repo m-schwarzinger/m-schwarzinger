@@ -1,7 +1,18 @@
 # 👋 Hi, I'm Markus
 
-Founder & Software Engineer at **Upcode**
-Focused on **Open Source**, **Self-Hosted Infrastructure** and **Digital Sovereignty**
+> **Founder & Software Engineer** at [Upcode](https://up-code.dev) · Open Source Enthusiast · Digital Sovereignty Advocate
+
+Passionate about **Open Source**, **Self-Hosted Infrastructure**, and building tools that give people control over their own data and systems.
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔓 Open Source Enthusiast – I believe in transparent, community-driven software
+- 🏠 Self-hosting advocate – running my own infrastructure, not depending on big tech
+- 🐧 Linux-first mindset in everything I build
+- 🤖 Exploring AI-driven automation & developer tooling
+- 🔐 Focused on **Digital Sovereignty** and privacy-respecting solutions
 
 ---
 
@@ -9,29 +20,40 @@ Focused on **Open Source**, **Self-Hosted Infrastructure** and **Digital Soverei
 
 **Upcode** is an independent IT & software company specializing in:
 
-- 💻 Software development & custom applications
-- 🌐 Web development & modern web platforms
-- 🔐 Secure & self-hosted infrastructure
-- 🖥️ Server & container management
-- 🤖 AI-driven automation & tooling
-- ⚙️ Linux-first, open-source-friendly solutions
+| Area | Description |
+|------|-------------|
+| 💻 Software Development | Custom applications & software solutions |
+| 🌐 Web Development | Modern, performant web platforms |
+| 🔐 Secure Infrastructure | Self-hosted & privacy-first setups |
+| 🖥️ Server Management | Container & server orchestration |
+| 🤖 AI Automation | AI-driven tooling & workflow automation |
+| ⚙️ Open Source Solutions | Linux-first, open-source-friendly stack |
 
-🌐 Website: https://up-code.dev  
-📸 Instagram: https://instagram.com/upcode_dev  
+🌐 **Website:** [up-code.dev](https://up-code.dev)  
+📸 **Instagram:** [@upcode_dev](https://instagram.com/upcode_dev)
 
 ---
 
-## 🚀 Projects
+## 🚀 Open Source Projects
 
-- 🔑 **upssh-cli** – Terminal-based SSH client  
-  https://github.com/upcode-at/upssh-cli
+### 🔑 [upssh-cli](https://github.com/upcode-at/upssh-cli)
+Terminal-based SSH client – manage your SSH connections from the command line.
 
-- 🖥️ **UpServX** – Self-hosted server management platform  
-  https://github.com/upcode-at/upservx
+### 🖥️ [UpServX](https://github.com/upcode-at/upservx)
+Self-hosted server management platform – take control of your own servers.
 
+---
 
 ## 📫 Get in Touch
 
-- 🌐 https://up-code.dev
-- 📸 https://instagram.com/upcode_dev
-- 💻 https://github.com/m-schwarzinger
+| Platform | Link |
+|----------|------|
+| 🌐 Website | [up-code.dev](https://up-code.dev) |
+| 📸 Instagram | [@upcode_dev](https://instagram.com/upcode_dev) |
+| 💻 GitHub | [@m-schwarzinger](https://github.com/m-schwarzinger) |
+
+---
+
+<p align="center">
+  <i>Building open, self-hosted and privacy-respecting software – one commit at a time.</i>
+</p>
