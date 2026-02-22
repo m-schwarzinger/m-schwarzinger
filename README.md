@@ -51,9 +51,3 @@ Self-hosted server management platform – take control of your own servers.
 | 🌐 Website | [up-code.dev](https://up-code.dev) |
 | 📸 Instagram | [@upcode_dev](https://instagram.com/upcode_dev) |
 | 💻 GitHub | [@m-schwarzinger](https://github.com/m-schwarzinger) |
-
----
-
-<p align="center">
-  <i>Building open, self-hosted and privacy-respecting software – one commit at a time.</i>
-</p>
