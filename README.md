@@ -23,11 +23,12 @@ Focused on **Open Source**, **Self-Hosted Infrastructure** and **Digital Soverei
 
 ## 🚀 Projects
 
-- 🔑 (https://github.com/upcode-at/upssh-cli)[**upssh-cli**] – Terminal-based SSH client  
-  
-- 🖥️ (https://github.com/upcode-at/upservx)[**UpServX**] – Self-hosted server management platform  
+- 🔑 **upssh-cli** – Terminal-based SSH client  
+  https://github.com/upcode-at/upssh-cli
 
----
+- 🖥️ **UpServX** – Self-hosted server management platform  
+  https://github.com/upcode-at/upservx
+
 
 ## 📫 Get in Touch
 
