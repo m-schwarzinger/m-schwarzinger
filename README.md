@@ -24,6 +24,9 @@ Terminal-based SSH client – manage your SSH connections from the command line.
 ### 🖥️ [UpServX](https://github.com/upcode-at/upservx)
 Self-hosted server management platform – take control of your own servers.
 
+### 🌐 [Secret Project](secret)
+There is a secret project still in the planing phase
+
 ---
 
 ## 📫 Get in Touch
@@ -33,3 +36,4 @@ Self-hosted server management platform – take control of your own servers.
 | 🌐 Website | [schwarzinger.dev](https://schwarzinger.dev) |
 | 📸 Instagram | [@hackandcode](https://instagram.com/hackandcode) |
 | 💻 GitHub | [@m-schwarzinger](https://github.com/m-schwarzinger) |
+| 📧 E-Mail | [markus@schwarzinger.dev](mailto:markus@schwarzinger.dev) |
