@@ -16,24 +16,6 @@ Passionate about **Open Source**, **Self-Hosted Infrastructure**, and building t
 
 ---
 
-## 🏢 About Upcode
-
-**Upcode** is an independent IT & software company specializing in:
-
-| Area | Description |
-|------|-------------|
-| 💻 Software Development | Custom applications & software solutions |
-| 🌐 Web Development | Modern, performant web platforms |
-| 🔐 Secure Infrastructure | Self-hosted & privacy-first setups |
-| 🖥️ Server Management | Container & server orchestration |
-| 🤖 AI Automation | AI-driven tooling & workflow automation |
-| ⚙️ Open Source Solutions | Linux-first, open-source-friendly stack |
-
-🌐 **Website:** [up-code.dev](https://up-code.dev)  
-📸 **Instagram:** [@upcode_dev](https://instagram.com/upcode_dev)
-
----
-
 ## 🚀 Open Source Projects
 
 ### 🔑 [upssh-cli](https://github.com/upcode-at/upssh-cli)
@@ -48,6 +30,6 @@ Self-hosted server management platform – take control of your own servers.
 
 | Platform | Link |
 |----------|------|
-| 🌐 Website | [up-code.dev](https://up-code.dev) |
-| 📸 Instagram | [@upcode_dev](https://instagram.com/upcode_dev) |
+| 🌐 Website | [schwarzinger.dev](https://schwarzinger.dev) |
+| 📸 Instagram | [@hackandcode](https://instagram.com/hackandcode) |
 | 💻 GitHub | [@m-schwarzinger](https://github.com/m-schwarzinger) |
