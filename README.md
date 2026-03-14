@@ -18,14 +18,11 @@ Passionate about **Open Source**, **Self-Hosted Infrastructure**, and building t
 
 ## 🚀 Open Source Projects
 
-### 🔑 [upssh-cli](https://github.com/upcode-at/upssh-cli)
-Terminal-based SSH client – manage your SSH connections from the command line.
-
 ### 🖥️ [UpServX](https://github.com/upcode-at/upservx)
 Self-hosted server management platform – take control of your own servers.
 
-### 🌐 [Secret Project](secret)
-There is a secret project still in the planing phase
+### 🔑 [upssh-cli](https://github.com/upcode-at/upssh-cli)
+Terminal-based SSH client – manage your SSH connections from the command line.
 
 ---
 
