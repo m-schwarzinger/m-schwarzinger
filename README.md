@@ -18,11 +18,8 @@ Passionate about **Open Source**, **Self-Hosted Infrastructure**, and building t
 
 ## 🚀 Open Source Projects
 
-### 🖥️ [UpServX](https://github.com/upcode-at/upservx)
+### 🖥️ [Harbor](https://github.com/upcode-at/Harbor)
 Self-hosted server management platform – take control of your own servers.
-
-### 🔑 [upssh-cli](https://github.com/upcode-at/upssh-cli)
-Terminal-based SSH client – manage your SSH connections from the command line.
 
 ---
 
