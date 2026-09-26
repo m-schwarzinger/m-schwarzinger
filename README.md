@@ -22,6 +22,7 @@ Passionate about **Open Source**, **Self-Hosted Infrastructure**, and building t
 Self-hosted server management platform – take control of your own servers.
 
 ### 🏃 [Sprint](https://github.com/upcode-oss/Sprint)
+Self-hosted project management for agile teams – bringing Kanban boards, Scrum sprints, time tracking, documents, and a shared calendar together. Built with Next.js and FastAPI to keep your team's work organized on your own infrastructure.
 
 ### 🤫 Secret Project
 
@@ -30,7 +31,7 @@ Self-hosted server management platform – take control of your own servers.
 ## ✨ Other Projects
 
 ### 🌐 [EterniaHub](https://eterniahub.org) & App
-EterniaHub and its companion app – not open source.
+A platform for **Masters of the Universe** fans and collectors – combining collection management, an expanding encyclopedia, news, and a community forum. The companion app lets collectors keep track of their figures, vehicles, and playsets on the go. Not open source.
 
 ---
 
