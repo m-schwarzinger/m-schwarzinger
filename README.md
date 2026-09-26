@@ -21,6 +21,17 @@ Passionate about **Open Source**, **Self-Hosted Infrastructure**, and building t
 ### 🖥️ [Harbor](https://github.com/upcode-at/Harbor)
 Self-hosted server management platform – take control of your own servers.
 
+### 🏃 Sprint
+
+### 🤫 Secret Project
+
+---
+
+## ✨ Other Projects
+
+### 🌐 EterniaHub & App
+EterniaHub and its companion app – not open source.
+
 ---
 
 ## 📫 Get in Touch
