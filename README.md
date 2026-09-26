@@ -25,6 +25,7 @@ Self-hosted server management platform – take control of your own servers.
 Self-hosted project management for agile teams – bringing Kanban boards, Scrum sprints, time tracking, documents, and a shared calendar together.
 
 ### 🤫 Secret Project
+A project that will be shared when the time has come
 
 ---
 
